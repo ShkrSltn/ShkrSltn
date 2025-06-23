@@ -13,8 +13,8 @@ I am a hardworking and ambitious Fullstack Developer with a positive mindset and
 - **Email:** [sultanovshakir12@gmail.com](mailto:sultanovshakir12@gmail.com)  
 - **Phone:** +41 76 454 7413  
 - **Location:** Tösstalstrasse 74, 8636 Wald ZH, Switzerland  
-- **LinkedIn:** [linkedin.com/in/shakrsltn](https://www.linkedin.com/in/shakrsltn)  
-- **Portfolio:** [visions.shkrsltn](https://shkrsltn.github.io/visions.shkrsltn/cv)  
+- **LinkedIn:** [linkedin.com/in/shakrsltn](https://www.linkedin.com/in/shkrsltn/)  
+- **Portfolio:** [visions.shkrsltn](https://shkrsltn.github.io/visions.shkrsltn/about-me)  
 - **GitHub:** [github.com/ShrkSltn](https://github.com/ShrkSltn)  
 
 ## 💼 Experience
