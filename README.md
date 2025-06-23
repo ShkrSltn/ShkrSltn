@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shakir Sultanov
+# 👋 Hi, I’m Shakir
 
 
 
